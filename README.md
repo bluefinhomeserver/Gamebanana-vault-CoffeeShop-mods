@@ -15,8 +15,8 @@ All you need to do is create a config.json file in SD:/wiiu/apps/coffeeshop/ and
 ---
 Just copy and paste to fill your library :3
 ---
+
 The Other Repos merged and managed by this repo: 
-(Please do not use this for the config.json, as you will have duplicate games. Which is exactly what [Gamebanana-vault](https://github.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/tree/main) is trying to avoid)
 
 ```
 {
@@ -32,6 +32,8 @@ The Other Repos merged and managed by this repo:
   ]
 }
 ```
+(Please do not use this for the config.json, as you will have duplicate games. Which is exactly what [Gamebanana-vault](https://github.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/tree/main) is trying to avoid)
+
 I pride myself on having things easily accessible and contained. I manually add all the mods to my repo, there is not a single ounce of automation.
 In the spirit of decentralization and the original project [Coffeeshop](https://github.com/timkicker/coffeeshop) (Although all of this is on github) 
 
