@@ -1,0 +1,22 @@
+{
+  "name": "Splatoon",
+  "icon": "https://cdn.wikimg.net/en/splatoonwiki/images/f/fe/S_Wii_U_icon.jpg?20240316072006",
+  "titleIds": [
+    "0005000E10176A00"
+  ],
+  "mods": [
+    {
+      "id": "splatoon2-testmap",
+      "name": "Splatoon2 TestMap ",
+      "type": "mod",
+      "version": "3",
+      "author": "taiyakisanntarou",
+      "description": "Updates\nAdding a Skybox 3\n4d\n\nI ported the skybox and sun position from the Splatoon 2 test map.\n\nI adjusted the color tones of all the textures.\nFiles\n\n    splatoon2_playertest_30763.zip\n\nAdd object 2\n2mo\n\nFix file 1.1\n2mo\n\nI ported the test map from the Splatoon 2 Debug Build to Splatoon 1.\n\nThis mod was made on a whim, so I haven't tested it on the console, and there are probably bugs.",
+      "download": "https://gamebanana.com/mods/download/677362#FileInfo_1756728",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6a5a0c2150284_530.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6a5a0c2150284_530.webp"
+      ]
+    }
+  ]
+}
