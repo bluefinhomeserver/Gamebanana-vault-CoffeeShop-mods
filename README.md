@@ -8,7 +8,7 @@ All you need to do is create a config.json file in SD:/wiiu/apps/coffeeshop/ and
 ```
 {
   "repos": [
-    "https://raw.githubusercontent.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/refs/heads/main/Gamebanana%20vault%20(CoffeeShop%20mods)/repo.json"
+    "https://raw.githubusercontent.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods/refs/heads/main/repo.json"
   ]
 }
 ```
