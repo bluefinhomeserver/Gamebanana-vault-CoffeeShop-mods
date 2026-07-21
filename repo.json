@@ -1,0 +1,33 @@
+{
+   "formatVersion":1,
+   "name":"Gamebanana-vault-CoffeeShop-mods",
+   "author":"bluefinhomeserver",
+   "description":"Github repo hosting gamebanana mods for ease of use with coffeshop",
+   "version":"1.2",
+   "games":[
+      {
+         "path":"/Gamebanana-vault/games/splatoon/game.json"
+      },
+      {
+         "path":"/Gamebanana-vault/games/super-smash-bros-wii-u/game.json"
+      },
+      {
+         "path":"/Gamebanana-vault/games/pokk-n-tournament/game.json"
+      },
+      {
+         "path":"/Gamebanana-vault/games/mario-3d-world/game.json"
+      },
+      {
+         "path":"/Gamebanana-vault/games/mario-kart-8/game.json"
+      },
+      {
+         "path":"/Gamebanana-vault/games/nintendo-land/game.json"
+      },
+      {
+         "path":"/Gamebanana-vault/games/new-super-mario-bros-u/game.json"
+      },
+      {
+         "path":"/Gamebanana-vault/games/super-mario-maker/game.json"
+      }
+   ]
+}
