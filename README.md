@@ -3,13 +3,14 @@ Github repo hosting gamebanana mods for ease of use with coffeshop
 
 Other Repos by other people (Copy and paste Template for config.json, My repo link is included dw): 
 
-`{
+```{
   "repos": [
     "https://raw.githubusercontent.com/Jepixfred/SSB-Wii-U-mods/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/QuackVR-maker/Wii-U-Mods/refs/heads/main/repo.json",
+    "https://raw.githubusercontent.com/opsychoses-dev/Wiiu-coffeshop-mod-repo-gamebanana/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/refs/heads/main/Gamebanana%20vault%20(CoffeeShop%20mods)/repo.json"
   ]
-}`
+}```
 
 I pride myself on having things easily accessible and contained. I manually add all the mods to my repo, there is not a single ounce of automation.
 In the spirit of decentralization and the original project [Coffeeshop](https://github.com/timkicker/coffeeshop) (Although all of this is on github) 
