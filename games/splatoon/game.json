@@ -126,8 +126,7 @@
         "Other/Misc"
       ],
       "changelog": "Updates\nNew fest! Smoothie vs Milkshake 1.4\n1mo\n-Added new files for smoothie vs milkshake!\nFiles\n\n    splat_fest_-_roses_vs_tulips.zip\n\nNew fest! Roses vs Tulips 1.2\n2mo\nAddition\nAdded new files for roses vs tulips.\nFiles\n\n    splat_fest_-_roses_vs_tulips.zip\n\nNew fest! Sunrise vs Sunset 1.2\n4mo\nFeature\nThis fest includes a new skybox and environment that makes night mode be sunset mode. (It's exclusive for this fest and sunnyfest only!)\nFiles\n\n    fest_sunrise_vs_sunset_.zip\n\nfixed date on pear vs apple fest files 1.o\n6mo\n-fixed dates for fest files (apple vs Pear)\n\n"
-    }
-
+    },
     {
       "id": "678828",
       "name": "callie-s-octo-earrings-for-octos-reimagined",
@@ -148,7 +147,7 @@
       "download": "https://gamebanana.com/dl/1711551",
       "thumbnail": "https://gamebanana.com/mods/embeddables/680397?type=large",
       "license": "You can reupload this aslong as you give credit by one of my aliases: mike giada0019 mike00.gkc dexx.io dexxioballs daniel0019 gampiss.rpx",
-      "tags": ["skin"],["Headgear"],
+      "tags": ["skin","Headgear"]
     },
     {
       "id": "579927",
@@ -160,7 +159,7 @@
       "download": "https://gamebanana.com/dl/1710140",
       "thumbnail": "https://gamebanana.com/mods/embeddables/579927?type=large",
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Static"],["Game files"],
+      "tags": ["Static", "Game files"]
     },
     {
       "id": "678866",
@@ -175,7 +174,7 @@
         "https://images.gamebanana.com/img/ss/mods/6a0e5d795860d.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["skin"],["Characters"],
+      "tags": ["skin","Characters"]
     },
     {
       "id": "677362",
@@ -190,7 +189,7 @@
         "https://images.gamebanana.com/img/ss/mods/6a0adb661b421.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Modeled"],["Maps"],
+      "tags": ["Modeled","Maps"]
     },
     {
       "id": "677744",
@@ -205,7 +204,7 @@
         "https://images.gamebanana.com/img/ss/mods/6a08c21109e0c.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Weapons"],["Game files"],
+      "tags": ["Weapons","Game files"]
     },
     {
       "id": "676264",
@@ -220,7 +219,7 @@
         "https://images.gamebanana.com/img/ss/mods/6a00c8efea067.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Weapons"],["Skins"],
+      "tags": ["Weapons","Skins"]
     },
     {
       "id": "676257",
@@ -235,7 +234,7 @@
         "https://images.gamebanana.com/img/ss/mods/6a00c4a44b043.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Skins"],
+      "tags": ["Skins"]
     },
     {
       "id": "674448",
@@ -250,7 +249,7 @@
         "https://images.gamebanana.com/img/ss/mods/69f78d84e060f.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Characters"],["Skins"],
+      "tags": ["Characters","Skins"]
     },
     {
       "id": "670910",
@@ -265,7 +264,7 @@
         "https://images.gamebanana.com/img/ss/mods/69e51973da5ae.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Other/Misc"],["Game files"],
+      "tags": ["Other/Misc","Game files"]
     },
     {
       "id": "669366",
@@ -280,7 +279,7 @@
         "https://images.gamebanana.com/img/ss/mods/69dd6615bf6df.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Other/Misc"],["Game files"],
+      "tags": ["Other/Misc","Game files"]
     },
     {
       "id": "667413",
@@ -295,7 +294,7 @@
         "https://images.gamebanana.com/img/ss/mods/69d55a481aa43.jpg"
       ],
       "license": "MIT License  Copyright (c) 2025 techmuse  Permission is hereby granted, free of charge, to any person obtaining a copy  of this software and associated documentation files (the \"Software\"), to deal  in the Software without restriction, including without limitation the rights  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  copies of the Software, and to permit persons to whom the Software is  furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all  copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  SOFTWARE.",
-      "tags": ["Skins"],
+      "tags": ["Skins"]
     },
     {
       "id": "661814",
@@ -310,7 +309,7 @@
         "https://images.gamebanana.com/img/ss/mods/69bc93aa94f7a.jpg"
       ],
       "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
-      "tags": ["Skins"],
+      "tags": ["Skins"]
     },
     {
       "id": "658973",
@@ -324,9 +323,9 @@
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/69af9082d3ba5.jpg"
       ],
-      "tags": ["Characters"],["Skins"],
+      "tags": ["Characters","Skins"]
     }
-     {
+    {
       "id": "squidward",
       "name": "Splatoon: Squidward Expansion v2",
       "type": "mod",
