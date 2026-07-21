@@ -2,6 +2,8 @@
   "name": "Splatoon",
   "icon": "https://cdn.wikimg.net/en/splatoonwiki/images/f/fe/S_Wii_U_icon.jpg?20240316072006",
   "titleIds": [
+    "0005000E10162B00",
+    "0005000E10176900",
     "0005000E10176A00"
   ],
   "mods": [
@@ -11,12 +13,119 @@
       "type": "mod",
       "version": "3",
       "author": "taiyakisanntarou",
-      "description": "Updates\nAdding a Skybox 3\n4d\n\nI ported the skybox and sun position from the Splatoon 2 test map.\n\nI adjusted the color tones of all the textures.\nFiles\n\n    splatoon2_playertest_30763.zip\n\nAdd object 2\n2mo\n\nFix file 1.1\n2mo\n\nI ported the test map from the Splatoon 2 Debug Build to Splatoon 1.\n\nThis mod was made on a whim, so I haven't tested it on the console, and there are probably bugs.",
+      "description": "I ported the test map from the Splatoon 2 Debug Build to Splatoon 1.\n\nThis mod was made on a whim, so I haven't tested it on the console, and there are probably bugs.",
       "download": "https://gamebanana.com/mods/download/677362#FileInfo_1756728",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6a5a0c2150284_530.webp",
       "screenshots": [
-        "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6a5a0c2150284_530.webp"
+        "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6a5a0c2150284_530.webp",
+        "https://images.gamebanana.com/img/ss/mods/6a5a0c8eda881.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5a0c8f0038b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5a0c8f2aba2.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5a0c8f460ac.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5a0c8f5d26a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5a0cc0e27b2.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a5a0cc38d311.jpg"
+      ],
+      "tags": [
+        "Maps",
+        "Modeled"
+      ],
+      "changelog": "Updates\nAdding a Skybox 3\n4d\n\nI ported the skybox and sun position from the Splatoon 2 test map.\n\nI adjusted the color tones of all the textures.\nFiles\n\n    splatoon2_playertest_30763.zip\n\nAdd object 2\n2mo\n\nI've ported almost everything, including the moving lift and sample objects!\nFix file 1.1\n2mo\n\nFixed an issue where the downloaded file was incorrect.\n\nAdded shadows to the stage."
+    },
+    {
+      "id": "splatoon-2-colors-in-splatoon-1-color-locks",
+      "name": "Splatoon 2 colors in Splatoon 1 (color locks)",
+      "type": "mod",
+      "version": "Unknown",
+      "author": "Manto._.lol",
+      "description": "Splatoon 1 color lock, splatoon 2 colors\nSplatoon 2 colors from turf are now in Splatoon 1, as seperated color locks!\n\nYou can only use one color lock! For example if you have purple Vs orange and you wanna have pink Vs yellow, you gotta get the other color lock and restart the game and select it.\n\n  DO NOT REPLACE THE TURF WAR RAW DATA COLOURS WITH THEM, IT WONT WORK! \n\nWhere to put the color lock \nWiiU:\nSD:/wiiu/sdcafiine/[TITLE ID]/color lock you choose\nCemu:\n/graphicPack/Splatoon/Mods/color lock you choose\n",
+      "download": "https://gamebanana.com/mods/download/694022#FileInfo_1753589",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_6a553be8b04c4_530.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a553be8b04c4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a553bf16cc8a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a553bf59ade6.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a553bf816807.jpg"
+      ],
+      "tags": [
+        "Game files",
+        "Static"
       ]
+    },
+    {
+      "id": "parallel-canon-inklings",
+      "name": "Parallel Canon Inklings ",
+      "type": "mod",
+      "version": "1.0",
+      "author": "Claygolor",
+      "description": "The Intensifying Harmony\nThis mod replaces Inklings with their Parallel Canon versions from Side Order.\nThe mod includes the order suit, replacing:\n\nB-ball Headband ------ Parallel Mask\nSQUID GIRL Tunic ---- Order Suit Replica\nTrail Boots -------------- Order Boot Replicas\n\n\nNOTE:\nThis also uses a Static.pack edit in order to \"fix\" the missing shoulders and chest from the Order Suit, you can just delete the Static.pack if you want to, it's an optional file, in case that you'll use it, please use nohash",
+      "download": "https://gamebanana.com/mods/download/693216#FileInfo_1751024",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6a516c087c510.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a516c087c510.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a516c08e74f9.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a516c08d0c8b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a516c097066b.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Skins",
+        "Characters"
+      ]
+    },
+    {
+      "id": "koopa-inklings-yoshi-octolings",
+      "name": "Koopa inklings! +Yoshi Octolings!",
+      "type": "mod",
+      "version": "Unknown",
+      "author": "Creator      RynoSK8 uPic         Me!  Rival Unpatch Dev (Special Thanks)      CerisWhite         Made Rival octolings work online",
+      "description": "Bah bah! Yoshi!\nThis mod replaces the inklings with koopas and dry bones! It also replaces the rival octolings with Yoshi!\n----------------------------------------------\nFeatures:\n\n    Koopa with customizable customizable eyes!\n    Dry Bones with customizable customizable eyes!\n    Yoshi over Rival octolings with customizable eyes and skin matching with your ink color!\n    Optional Ryno version!\n\n----------------------------------------------\nRequirements:\n\n    Rival unpatch (only use the plugin it gives, not the player.pack files)\n    SplatHeX (or any other way of becoming an octoling) if you want to be yoshi\n\n----------------------------------------------\nPlans: \n\n    Dry bones model (Done!)\n    Yoshi over rival octolings (Done!)\n    Fixed hat positions (in progress)",
+      "download": "https://gamebanana.com/mods/download/690296#FileInfo_1744592",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6a468173aa1be.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a4335fe6da3b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4430fdca379.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a480f446a32a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4335fe22c0a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4430fdd4272.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a480f4459e5d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4430fdb3f47.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4335fe13495.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4335fe1aaa3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4430fda033b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4430fdb13d4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4430fddda35.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a4328eca8e61.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Characters",
+        "Skins"
+      ]
+    },
+    {
+      "id": "splatfest-mania-splat1-fest-splatfests",
+      "name": "SplatFest mania (Splat1._.Fest splatfests) ",
+      "type": "mod",
+      "version": "1.4",
+      "author": "Submitter Th3OctoG1rl Key Authors      The splat1._.Fest team         Everything     -273.15         Standby and loading screens",
+      "description": "Fests for every1!!\nWelcome to splatfest mania, this is a gamebanana page where the fest files used inside Splat1._.Fest will be posted by me, Jelly.\nThis is made so we can distribute the files more easily.\n\nCurrent fest (Sunrise vs Sunset) has a new custom sunset look for fests!\n\nWhat do the files usually include?\n-New remodeled fest plaza\n-New music\n-New Standby intro\n-New sounds\n-Splatfest colorlock\n-The most important thing, splatfest files\n\nDO NOT USE PRETENDO FEST MATCHMAKING, IT DOES NOT WORK AT THE MOMENT \nHowever, you can vote to get the fest tees. Even tho the fest tees are always added over 2 in-game tees.\nEVERYTHING ELSE SHOULD BE ONLINE SAFE ON PRETENDO\n\nHow to install custom Splatfests?\n\n 1: Download the files from the page you are in right now. The files will be posted around a week before the Splatfest happens.\n\n2: Follow the instructions for your device! \n\n-CEMU :     \n\n           1. Copy all the files you downloaded.\n\n           2. Go into your Cemu and open following path:\n\n               mlc01\\usr\\boss\\00050000\\(title id)\\user\\common\\data\\optdat2\n\n           3. Check  that the names of the downloaded files match the one already existing!!!        \n\n          4. Overwrite the files that are already in there.\n\n          5. If you connect to the internet now ( and the Fest/Preparation has begun) you should be able   to see the Splatfest announcement.\n\n-WII U:    \n\n            1. Boot up your Wii U and open FTPiiU on the plugins menu\n\n            2. Connect to the Wii U via Filezilla by entering the Wii U's IP and port inside there.\n\n            3. Search for following path:\n\n    storage_mlc/usr/boss/00050000/(title id)/user/common/data/optdat2\n\n            4. Check  that the names of the downloaded files match the one already existing!!!\n\n            5. Overwrite the files in there.\n\n            6. Disconnect Filezilla and open the game. \n\n            7. The Fest should show up.\n\nPlease backup your Save-Data and the data you replace.\n\nTitle ID's: 10162b00 = JPN, 1017e300 = EU, 10176900= US\n\nHow do I join matches?\n-Join the discord server! link: https://discord.gg/QX94gvsvwS\n-Ask if anyone is matchmaking or if the fest is still up\n-Have fun!\n\nCredits: \n-HSS for making the loading screen and standby",
+      "download": "https://gamebanana.com/mods/download/649660#FileInfo_1731141 https://gamebanana.com/mods/download/649660#FileInfo_1701764 https://gamebanana.com/mods/download/649660#FileInfo_1643020",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6a33106236d7b.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a3312528e090.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a331251cacb0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/697d2ce8c9c61.jpg",
+        "https://images.gamebanana.com/img/ss/mods/697d2ce8e3242.jpg",
+        "https://images.gamebanana.com/img/ss/mods/697d2ce901b6c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/697d2ce9177a4.jpg"
+      ],
+      "license": "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+      "tags": [
+        "Game files",
+        "Other/Misc"
+      ],
+      "changelog": "Updates\nNew fest! Smoothie vs Milkshake 1.4\n1mo\n-Added new files for smoothie vs milkshake!\nFiles\n\n    splat_fest_-_roses_vs_tulips.zip\n\nNew fest! Roses vs Tulips 1.2\n2mo\nAddition\nAdded new files for roses vs tulips.\nFiles\n\n    splat_fest_-_roses_vs_tulips.zip\n\nNew fest! Sunrise vs Sunset 1.2\n4mo\nFeature\nThis fest includes a new skybox and environment that makes night mode be sunset mode. (It's exclusive for this fest and sunnyfest only!)\nFiles\n\n    fest_sunrise_vs_sunset_.zip\n\nfixed date on pear vs apple fest files 1.o\n6mo\n-fixed dates for fest files (apple vs Pear)\n\n"
     }
   ]
 }

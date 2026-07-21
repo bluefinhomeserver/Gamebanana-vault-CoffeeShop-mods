@@ -7,6 +7,12 @@
   "games": [
     {
       "path": "games/splatoon/game.json"
+    },
+    {
+      "path": "games/super-smash-bros-wii-u/game.json"
+    },
+    {
+      "path": "games/pokk-n-tournament/game.json"
     }
   ]
 }
