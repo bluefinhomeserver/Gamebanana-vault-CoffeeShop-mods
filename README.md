@@ -12,6 +12,7 @@ Other Repos by other people (Copy and paste Template for config.json, My repo li
     "https://raw.githubusercontent.com/ItsFuntum/funtum-coffeeshop-repo/main/repo.json",
     "https://raw.githubusercontent.com/GrouxCL/grouxcl-coffeeshop-repo/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/FujimaruR/coffeeshop-repo/refs/heads/main/repo.json",
+    "https://raw.githubusercontent.com/jacobmckibbin-hub/mocha-coffeeshop-repo/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/bluefinhomeserver/Gamebanana-vault-CoffeeShop-mods-/refs/heads/main/Gamebanana%20vault%20(CoffeeShop%20mods)/repo.json"
   ]
 }
