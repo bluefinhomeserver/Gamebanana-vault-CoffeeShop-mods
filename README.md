@@ -3,7 +3,8 @@ Github repo hosting gamebanana mods for ease of use with coffeshop
 
 Other Repos by other people (Copy and paste Template for config.json, My repo link is included dw): 
 
-```{
+```
+{
   "repos": [
     "https://raw.githubusercontent.com/Jepixfred/SSB-Wii-U-mods/refs/heads/main/repo.json",
     "https://raw.githubusercontent.com/QuackVR-maker/Wii-U-Mods/refs/heads/main/repo.json",
