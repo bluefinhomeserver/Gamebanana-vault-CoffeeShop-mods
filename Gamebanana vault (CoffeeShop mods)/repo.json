@@ -29,6 +29,10 @@
     {
       "path": "games/new-super-mario-bros-u/game.json"
     }
+    {
+      "path": "games/super-mario-maker/game.json"
+    }
+    
     
   ]
 }
