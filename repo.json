@@ -3,7 +3,7 @@
    "name":"Gamebanana-vault-CoffeeShop-mods",
    "author":"bluefinhomeserver",
    "description":"Github repo hosting gamebanana mods for ease of use with coffeshop",
-   "version":"1.2",
+   "version":"1.0",
    "games":[
       {
          "path":"/games/splatoon/game.json"
